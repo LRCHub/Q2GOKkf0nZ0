@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "恋する気持ち",
+  "base_artist": "西野カナ",
+  "createdAt": "2026-03-11T08:53:54.562467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/01_恋する気持ち_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/02_恋する気持ち_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "CHIHIRO",
+      "has_synced": false,
+      "path": "select/03_恋する気持ち_CHIHIRO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "mihimaru GT",
+      "has_synced": true,
+      "path": "select/04_恋する気持ち_mihimaru_GT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "西野　カナ",
+      "has_synced": true,
+      "path": "select/05_恋する気持ち_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/06_恋する気持ち_mihimaru_GT.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋する気持ち",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/07_恋する気持ち_西野カナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する気持ち",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_恋する気持ち_西野_カナ.txt"
+    }
+  ]
+}
